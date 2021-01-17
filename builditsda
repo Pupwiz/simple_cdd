@@ -1,0 +1,1 @@
+build-simple-cdd --keyboard us --locale en_US.UTF-8 --extra-udeb-dist buster --conf ./debiansda.conf --force-root
